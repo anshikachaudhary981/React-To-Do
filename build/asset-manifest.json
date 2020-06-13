@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/anshikachaudhary981/React-To-Do/static/css/main.37ce2fc3.chunk.css",
+    "main.js": "/anshikachaudhary981/React-To-Do/static/js/main.bc79dc36.chunk.js",
+    "main.js.map": "/anshikachaudhary981/React-To-Do/static/js/main.bc79dc36.chunk.js.map",
+    "runtime-main.js": "/anshikachaudhary981/React-To-Do/static/js/runtime-main.9d5e800d.js",
+    "runtime-main.js.map": "/anshikachaudhary981/React-To-Do/static/js/runtime-main.9d5e800d.js.map",
+    "static/js/2.fb5eb7ea.chunk.js": "/anshikachaudhary981/React-To-Do/static/js/2.fb5eb7ea.chunk.js",
+    "static/js/2.fb5eb7ea.chunk.js.map": "/anshikachaudhary981/React-To-Do/static/js/2.fb5eb7ea.chunk.js.map",
+    "index.html": "/anshikachaudhary981/React-To-Do/index.html",
+    "precache-manifest.6d00741a2ab2c832f6defafee6b4b721.js": "/anshikachaudhary981/React-To-Do/precache-manifest.6d00741a2ab2c832f6defafee6b4b721.js",
+    "service-worker.js": "/anshikachaudhary981/React-To-Do/service-worker.js",
+    "static/css/main.37ce2fc3.chunk.css.map": "/anshikachaudhary981/React-To-Do/static/css/main.37ce2fc3.chunk.css.map",
+    "static/js/2.fb5eb7ea.chunk.js.LICENSE.txt": "/anshikachaudhary981/React-To-Do/static/js/2.fb5eb7ea.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/anshikachaudhary981/React-To-Do/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d5e800d.js",
+    "static/js/2.fb5eb7ea.chunk.js",
+    "static/css/main.37ce2fc3.chunk.css",
+    "static/js/main.bc79dc36.chunk.js"
+  ]
+}
